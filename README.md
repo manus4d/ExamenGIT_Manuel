@@ -7,8 +7,8 @@ Mi nombre es **Manuel Álvarez Camacho** y en este examen voy a poner en practic
 - Trabajar en ramas
 
 ## Objetivo
-Crearemos una web para el instituto [IES Pablo Picasso](https://fpiespablopicasso.es/)
-![IES PABLO PICASSO](https://github.com/user-attachments/assets/6ffbd666-71be-4fac-8ff0-ee963236f69d) :EMOJICODE: school
+Crearemos una web para el instituto [IES Pablo Picasso](https://fpiespablopicasso.es/) :school: 
+![IES PABLO PICASSO](https://github.com/user-attachments/assets/6ffbd666-71be-4fac-8ff0-ee963236f69d) 
 
 ## Ejemplos
 Para crear un repositorio tendre que utilizar el comando 
